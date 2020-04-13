@@ -4,6 +4,9 @@
 
 ![alt text](assets/wittime.jpg "Wittime Station")
 
+Could not get image to show for some reason so here is a link to the picture:
+[Wittime Weather Station](https://images-na.ssl-images-amazon.com/images/I/51ddaqVl0kL._AC_SL1000_.jpg)
+
 
 ### Experience
   This product has many different features, such as being able to tell you the temperature outdoors and indoors, the time and date, the predicted forcast, and some others. As you can see from the above picture all of this information is displayed on one screen. Althought they are divided into their own boxes, it is still a lot of information for one screen. If you want to see what the temperature is outside, you first have to find the box which displays outdoor information. From there you can then look for the temperature, and thankfully it's the biggest thing on there. But if you were looking for the time or date, they are on opposite sides of the display, normally those 2 things are together. This impacts the **efficiency** of this device since you need to first find whay you want. With that said it is a **memorable** layout after a while.
