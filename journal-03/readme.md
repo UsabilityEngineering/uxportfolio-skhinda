@@ -2,7 +2,7 @@
 
 ## Shan Khinda 05-10-20
 
-![alt text](assets/IMG_2951.PNG "iOS Home Screen")
+![alt text](assets/IMG_2951.jpg "iOS Home Screen")
 
 Image wouldn't load so here is an image of the home screen.
 ![alt text](https://www.iphonehacks.com/wp-content/uploads/2019/06/Apple-ios-13-home-screen-iphone-xs-06032019.jpg "Home screen")
