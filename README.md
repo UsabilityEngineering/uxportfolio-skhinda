@@ -13,3 +13,5 @@ And I am interested in UX designing, it will definitely help in creating better/
 [First journal entry](journal-01)
 
 [Second journal entry](journal-02)
+
+[Third journal entry](journal-03)
